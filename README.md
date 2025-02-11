@@ -1,4 +1,4 @@
-# Java - Study and Practice
+Java - Study and Practice
 
 This repository contains notes, code examples, and exercises related to studying the Java language. Here you will find fundamental and advanced concepts of the language, covering everything from the basics to topics on Object-Oriented Programming (OOP) and collection manipulation.
 
