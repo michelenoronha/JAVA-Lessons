@@ -36,7 +36,6 @@ This repository contains notes, code examples, and exercises related to studying
 Each topic contains practical examples and notes to facilitate learning and application of concepts.🚀
 
 
-Português
 # JAVA-Lessons
 # Java - Estudos e Prática
 
